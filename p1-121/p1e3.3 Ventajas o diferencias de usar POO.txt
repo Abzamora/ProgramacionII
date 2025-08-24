@@ -1,0 +1,11 @@
+1. Programación Modular-Estructura:
+    Código más lineal y fácil de seguir
+    Estructura más simple y directa
+    Más fácil de depurar paso a paso
+    Mejor rendimiento en programas pequeños
+    
+2. Programación Orientada a Objetos:
+    Mejor organización del código
+    Mayor reutilización de código
+    Mejor encapsulamiento de datos
+    Más fácil de mantener y extender
