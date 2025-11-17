@@ -20,6 +20,7 @@ public class Main {
                 new Persona("Ana", 28, 55f),
                 new Persona("Carla", 19, 50f),
                 new Persona("Pedro", 45, 82f),
+                new Persona("Amilcar", 22, 60f),
                 new Persona("Brandon", 20, 50f)
         };
 
@@ -41,3 +42,4 @@ public class Main {
         System.out.println("todas las cabinas cumplen reglas: " + sistema.verificarCabinas());
     }
 }
+
